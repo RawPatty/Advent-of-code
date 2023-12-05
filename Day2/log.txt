@@ -1,0 +1,2984 @@
+Starting a new game 
+New game is Game 1: 7 blue, 4 red, 11 green; 2 red, 2 blue, 7 green; 2 red, 13 blue, 8 green; 18 blue, 7 green, 5 red 
+Game 1 is the splitstring 0 
+ 7 blue, 4 red, 11 green; 2 red, 2 blue, 7 green; 2 red, 13 blue, 8 green; 18 blue, 7 green, 5 red is the subtstring 1 
+1 is the gamenum 
+Starting a new set 
+value is :  7 blue, 4 red, 11 green 
+ 7 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 2 blue, 7 green 
+ 2 red is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 13 blue, 8 green 
+ 2 red is the entry 
+Entry is a success 
+ 13 blue is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  18 blue, 7 green, 5 red 
+ 18 blue is the entry 
+Breaking out of Blue for game 1 
+After failure, the sum is 0 
+Set Complete!Starting a new game 
+New game is Game 2: 3 green, 4 red, 4 blue; 6 red, 4 green, 4 blue; 2 blue, 4 green, 3 red 
+Game 2 is the splitstring 0 
+ 3 green, 4 red, 4 blue; 6 red, 4 green, 4 blue; 2 blue, 4 green, 3 red is the subtstring 1 
+2 is the gamenum 
+Starting a new set 
+value is :  3 green, 4 red, 4 blue 
+ 3 green is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 red, 4 green, 4 blue 
+ 6 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 4 green, 3 red 
+ 2 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Set Complete!I am adding 2 as it is a success case 
+The sum is 2 
+Starting a new game 
+New game is Game 3: 1 red, 2 green, 3 blue; 1 red, 2 green; 2 green, 3 red; 1 blue, 2 red 
+Game 3 is the splitstring 0 
+ 1 red, 2 green, 3 blue; 1 red, 2 green; 2 green, 3 red; 1 blue, 2 red is the subtstring 1 
+3 is the gamenum 
+Starting a new set 
+value is :  1 red, 2 green, 3 blue 
+ 1 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 2 green 
+ 1 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 3 red 
+ 2 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 2 red 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Set Complete!I am adding 3 as it is a success case 
+The sum is 5 
+Starting a new game 
+New game is Game 4: 1 red, 15 green; 1 green, 2 blue; 12 green, 1 red, 2 blue; 14 green; 2 green, 1 blue, 2 red 
+Game 4 is the splitstring 0 
+ 1 red, 15 green; 1 green, 2 blue; 12 green, 1 red, 2 blue; 14 green; 2 green, 1 blue, 2 red is the subtstring 1 
+4 is the gamenum 
+Starting a new set 
+value is :  1 red, 15 green 
+ 1 red is the entry 
+Entry is a success 
+ 15 green is the entry 
+Breaking out of Green for game 4 
+After failure, the sum is 5 
+Set Complete!Starting a new game 
+New game is Game 5: 8 red; 7 red; 11 red, 4 green; 1 blue, 8 red; 6 red, 2 green, 1 blue; 8 green, 13 red, 1 blue 
+Game 5 is the splitstring 0 
+ 8 red; 7 red; 11 red, 4 green; 1 blue, 8 red; 6 red, 2 green, 1 blue; 8 green, 13 red, 1 blue is the subtstring 1 
+5 is the gamenum 
+Starting a new set 
+value is :  8 red 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 red, 4 green 
+ 11 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 8 red 
+ 1 blue is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 red, 2 green, 1 blue 
+ 6 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 green, 13 red, 1 blue 
+ 8 green is the entry 
+Entry is a success 
+ 13 red is the entry 
+Breaking out of Red for game 5 
+After failure, the sum is 5 
+Set Complete!Starting a new game 
+New game is Game 6: 3 blue, 2 red, 6 green; 2 red, 8 green, 1 blue; 1 red, 3 blue 
+Game 6 is the splitstring 0 
+ 3 blue, 2 red, 6 green; 2 red, 8 green, 1 blue; 1 red, 3 blue is the subtstring 1 
+6 is the gamenum 
+Starting a new set 
+value is :  3 blue, 2 red, 6 green 
+ 3 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 8 green, 1 blue 
+ 2 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 3 blue 
+ 1 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 6 as it is a success case 
+The sum is 11 
+Starting a new game 
+New game is Game 7: 5 green, 1 red, 1 blue; 6 blue, 12 red; 6 red, 7 green; 3 green, 1 blue 
+Game 7 is the splitstring 0 
+ 5 green, 1 red, 1 blue; 6 blue, 12 red; 6 red, 7 green; 3 green, 1 blue is the subtstring 1 
+7 is the gamenum 
+Starting a new set 
+value is :  5 green, 1 red, 1 blue 
+ 5 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 12 red 
+ 6 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 red, 7 green 
+ 6 red is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 1 blue 
+ 3 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 7 as it is a success case 
+The sum is 18 
+Starting a new game 
+New game is Game 8: 10 red, 6 green; 4 blue, 6 green, 5 red; 8 green, 5 red, 5 blue; 2 red, 4 blue 
+Game 8 is the splitstring 0 
+ 10 red, 6 green; 4 blue, 6 green, 5 red; 8 green, 5 red, 5 blue; 2 red, 4 blue is the subtstring 1 
+8 is the gamenum 
+Starting a new set 
+value is :  10 red, 6 green 
+ 10 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 6 green, 5 red 
+ 4 blue is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 green, 5 red, 5 blue 
+ 8 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 4 blue 
+ 2 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 8 as it is a success case 
+The sum is 26 
+Starting a new game 
+New game is Game 9: 11 blue, 13 red, 3 green; 13 red, 1 green, 6 blue; 8 blue, 4 green, 5 red; 16 red, 7 green, 10 blue; 16 red, 5 green, 6 blue; 17 red, 6 blue 
+Game 9 is the splitstring 0 
+ 11 blue, 13 red, 3 green; 13 red, 1 green, 6 blue; 8 blue, 4 green, 5 red; 16 red, 7 green, 10 blue; 16 red, 5 green, 6 blue; 17 red, 6 blue is the subtstring 1 
+9 is the gamenum 
+Starting a new set 
+value is :  11 blue, 13 red, 3 green 
+ 11 blue is the entry 
+Entry is a success 
+ 13 red is the entry 
+Breaking out of Red for game 9 
+After failure, the sum is 26 
+Set Complete!Starting a new game 
+New game is Game 10: 16 blue, 8 green; 2 red, 4 green, 1 blue; 15 blue; 4 red, 5 green, 4 blue 
+Game 10 is the splitstring 0 
+ 16 blue, 8 green; 2 red, 4 green, 1 blue; 15 blue; 4 red, 5 green, 4 blue is the subtstring 1 
+10 is the gamenum 
+Starting a new set 
+value is :  16 blue, 8 green 
+ 16 blue is the entry 
+Breaking out of Blue for game 10 
+After failure, the sum is 26 
+Set Complete!Starting a new game 
+New game is Game 11: 3 blue, 8 red, 10 green; 10 red, 6 green; 1 red, 1 green; 13 red, 1 green, 1 blue; 3 green, 7 red; 2 blue, 6 green, 2 red 
+Game 11 is the splitstring 0 
+ 3 blue, 8 red, 10 green; 10 red, 6 green; 1 red, 1 green; 13 red, 1 green, 1 blue; 3 green, 7 red; 2 blue, 6 green, 2 red is the subtstring 1 
+11 is the gamenum 
+Starting a new set 
+value is :  3 blue, 8 red, 10 green 
+ 3 blue is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 red, 6 green 
+ 10 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 1 green 
+ 1 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  13 red, 1 green, 1 blue 
+ 13 red is the entry 
+Breaking out of Red for game 11 
+After failure, the sum is 26 
+Set Complete!Starting a new game 
+New game is Game 12: 1 red, 10 green; 4 red, 6 green, 1 blue; 9 green, 1 blue, 7 red; 1 blue, 13 green, 2 red; 2 blue, 5 red, 11 green 
+Game 12 is the splitstring 0 
+ 1 red, 10 green; 4 red, 6 green, 1 blue; 9 green, 1 blue, 7 red; 1 blue, 13 green, 2 red; 2 blue, 5 red, 11 green is the subtstring 1 
+12 is the gamenum 
+Starting a new set 
+value is :  1 red, 10 green 
+ 1 red is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 red, 6 green, 1 blue 
+ 4 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 green, 1 blue, 7 red 
+ 9 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 13 green, 2 red 
+ 1 blue is the entry 
+Entry is a success 
+ 13 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 5 red, 11 green 
+ 2 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Set Complete!I am adding 12 as it is a success case 
+The sum is 38 
+Starting a new game 
+New game is Game 13: 1 red, 5 blue; 1 red, 6 green; 2 blue, 1 red; 2 blue, 1 red, 2 green; 5 green, 2 blue 
+Game 13 is the splitstring 0 
+ 1 red, 5 blue; 1 red, 6 green; 2 blue, 1 red; 2 blue, 1 red, 2 green; 5 green, 2 blue is the subtstring 1 
+13 is the gamenum 
+Starting a new set 
+value is :  1 red, 5 blue 
+ 1 red is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 6 green 
+ 1 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 1 red 
+ 2 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 1 red, 2 green 
+ 2 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 green, 2 blue 
+ 5 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 13 as it is a success case 
+The sum is 51 
+Starting a new game 
+New game is Game 14: 4 green; 8 blue, 1 red, 2 green; 7 red, 2 green, 4 blue; 4 blue, 7 green; 7 blue, 2 green, 1 red; 7 blue, 5 red 
+Game 14 is the splitstring 0 
+ 4 green; 8 blue, 1 red, 2 green; 7 red, 2 green, 4 blue; 4 blue, 7 green; 7 blue, 2 green, 1 red; 7 blue, 5 red is the subtstring 1 
+14 is the gamenum 
+Starting a new set 
+value is :  4 green 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 1 red, 2 green 
+ 8 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red, 2 green, 4 blue 
+ 7 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 7 green 
+ 4 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 2 green, 1 red 
+ 7 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 5 red 
+ 7 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Set Complete!I am adding 14 as it is a success case 
+The sum is 65 
+Starting a new game 
+New game is Game 15: 10 green, 3 red; 8 blue, 14 green, 3 red; 4 red, 1 green, 12 blue 
+Game 15 is the splitstring 0 
+ 10 green, 3 red; 8 blue, 14 green, 3 red; 4 red, 1 green, 12 blue is the subtstring 1 
+15 is the gamenum 
+Starting a new set 
+value is :  10 green, 3 red 
+ 10 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 14 green, 3 red 
+ 8 blue is the entry 
+Entry is a success 
+ 14 green is the entry 
+Breaking out of Green for game 15 
+After failure, the sum is 65 
+Set Complete!Starting a new game 
+New game is Game 16: 8 red, 4 blue, 6 green; 14 blue, 9 red, 10 green; 1 red, 5 blue, 8 green; 14 blue, 11 green, 3 red 
+Game 16 is the splitstring 0 
+ 8 red, 4 blue, 6 green; 14 blue, 9 red, 10 green; 1 red, 5 blue, 8 green; 14 blue, 11 green, 3 red is the subtstring 1 
+16 is the gamenum 
+Starting a new set 
+value is :  8 red, 4 blue, 6 green 
+ 8 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  14 blue, 9 red, 10 green 
+ 14 blue is the entry 
+Entry is a success 
+ 9 red is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 5 blue, 8 green 
+ 1 red is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  14 blue, 11 green, 3 red 
+ 14 blue is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Set Complete!I am adding 16 as it is a success case 
+The sum is 81 
+Starting a new game 
+New game is Game 17: 20 blue, 5 red, 4 green; 3 red, 14 blue; 4 red, 4 blue, 4 green; 12 blue, 5 red, 3 green 
+Game 17 is the splitstring 0 
+ 20 blue, 5 red, 4 green; 3 red, 14 blue; 4 red, 4 blue, 4 green; 12 blue, 5 red, 3 green is the subtstring 1 
+17 is the gamenum 
+Starting a new set 
+value is :  20 blue, 5 red, 4 green 
+ 20 blue is the entry 
+Breaking out of Blue for game 17 
+After failure, the sum is 81 
+Set Complete!Starting a new game 
+New game is Game 18: 7 blue, 8 red; 1 blue, 2 red; 1 green, 2 blue 
+Game 18 is the splitstring 0 
+ 7 blue, 8 red; 1 blue, 2 red; 1 green, 2 blue is the subtstring 1 
+18 is the gamenum 
+Starting a new set 
+value is :  7 blue, 8 red 
+ 7 blue is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 2 red 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 2 blue 
+ 1 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 18 as it is a success case 
+The sum is 99 
+Starting a new game 
+New game is Game 19: 14 green, 4 blue; 6 green; 12 green, 5 blue; 12 green, 1 red, 1 blue; 4 blue, 10 green 
+Game 19 is the splitstring 0 
+ 14 green, 4 blue; 6 green; 12 green, 5 blue; 12 green, 1 red, 1 blue; 4 blue, 10 green is the subtstring 1 
+19 is the gamenum 
+Starting a new set 
+value is :  14 green, 4 blue 
+ 14 green is the entry 
+Breaking out of Green for game 19 
+After failure, the sum is 99 
+Set Complete!Starting a new game 
+New game is Game 20: 3 green, 4 blue, 4 red; 13 blue, 1 red, 2 green; 13 blue, 9 green, 9 red 
+Game 20 is the splitstring 0 
+ 3 green, 4 blue, 4 red; 13 blue, 1 red, 2 green; 13 blue, 9 green, 9 red is the subtstring 1 
+20 is the gamenum 
+Starting a new set 
+value is :  3 green, 4 blue, 4 red 
+ 3 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  13 blue, 1 red, 2 green 
+ 13 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  13 blue, 9 green, 9 red 
+ 13 blue is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+ 9 red is the entry 
+Entry is a success 
+Set Complete!I am adding 20 as it is a success case 
+The sum is 119 
+Starting a new game 
+New game is Game 21: 4 green, 2 blue, 2 red; 3 green, 2 blue; 1 blue, 5 green; 1 blue, 2 red, 3 green; 1 green, 1 blue, 2 red; 6 blue, 1 green 
+Game 21 is the splitstring 0 
+ 4 green, 2 blue, 2 red; 3 green, 2 blue; 1 blue, 5 green; 1 blue, 2 red, 3 green; 1 green, 1 blue, 2 red; 6 blue, 1 green is the subtstring 1 
+21 is the gamenum 
+Starting a new set 
+value is :  4 green, 2 blue, 2 red 
+ 4 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 2 blue 
+ 3 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 5 green 
+ 1 blue is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 2 red, 3 green 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 1 blue, 2 red 
+ 1 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 1 green 
+ 6 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Set Complete!I am adding 21 as it is a success case 
+The sum is 140 
+Starting a new game 
+New game is Game 22: 4 red, 17 green; 15 green, 3 blue, 2 red; 4 blue, 7 red, 11 green; 16 green, 4 red; 3 blue, 2 red 
+Game 22 is the splitstring 0 
+ 4 red, 17 green; 15 green, 3 blue, 2 red; 4 blue, 7 red, 11 green; 16 green, 4 red; 3 blue, 2 red is the subtstring 1 
+22 is the gamenum 
+Starting a new set 
+value is :  4 red, 17 green 
+ 4 red is the entry 
+Entry is a success 
+ 17 green is the entry 
+Breaking out of Green for game 22 
+After failure, the sum is 140 
+Set Complete!Starting a new game 
+New game is Game 23: 19 green, 2 blue, 3 red; 1 red, 2 blue, 2 green; 2 blue, 10 green, 11 red 
+Game 23 is the splitstring 0 
+ 19 green, 2 blue, 3 red; 1 red, 2 blue, 2 green; 2 blue, 10 green, 11 red is the subtstring 1 
+23 is the gamenum 
+Starting a new set 
+value is :  19 green, 2 blue, 3 red 
+ 19 green is the entry 
+Breaking out of Green for game 23 
+After failure, the sum is 140 
+Set Complete!Starting a new game 
+New game is Game 24: 1 red, 3 blue; 2 blue; 1 green, 1 red, 3 blue; 1 red, 1 green 
+Game 24 is the splitstring 0 
+ 1 red, 3 blue; 2 blue; 1 green, 1 red, 3 blue; 1 red, 1 green is the subtstring 1 
+24 is the gamenum 
+Starting a new set 
+value is :  1 red, 3 blue 
+ 1 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 1 red, 3 blue 
+ 1 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 1 green 
+ 1 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Set Complete!I am adding 24 as it is a success case 
+The sum is 164 
+Starting a new game 
+New game is Game 25: 12 green, 2 red, 10 blue; 6 green, 3 red; 3 green, 18 blue, 3 red; 17 green, 3 red, 18 blue 
+Game 25 is the splitstring 0 
+ 12 green, 2 red, 10 blue; 6 green, 3 red; 3 green, 18 blue, 3 red; 17 green, 3 red, 18 blue is the subtstring 1 
+25 is the gamenum 
+Starting a new set 
+value is :  12 green, 2 red, 10 blue 
+ 12 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+ 10 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 green, 3 red 
+ 6 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 18 blue, 3 red 
+ 3 green is the entry 
+Entry is a success 
+ 18 blue is the entry 
+Breaking out of Blue for game 25 
+After failure, the sum is 164 
+Set Complete!Starting a new game 
+New game is Game 26: 4 red, 12 blue, 5 green; 3 green, 5 red, 1 blue; 6 blue, 4 green, 1 red; 6 blue, 7 green; 3 green, 5 red, 2 blue; 1 green, 2 blue, 9 red 
+Game 26 is the splitstring 0 
+ 4 red, 12 blue, 5 green; 3 green, 5 red, 1 blue; 6 blue, 4 green, 1 red; 6 blue, 7 green; 3 green, 5 red, 2 blue; 1 green, 2 blue, 9 red is the subtstring 1 
+26 is the gamenum 
+Starting a new set 
+value is :  4 red, 12 blue, 5 green 
+ 4 red is the entry 
+Entry is a success 
+ 12 blue is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 5 red, 1 blue 
+ 3 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 4 green, 1 red 
+ 6 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 7 green 
+ 6 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 5 red, 2 blue 
+ 3 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 2 blue, 9 red 
+ 1 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 9 red is the entry 
+Entry is a success 
+Set Complete!I am adding 26 as it is a success case 
+The sum is 190 
+Starting a new game 
+New game is Game 27: 1 red, 9 green; 3 green; 9 green, 2 blue, 1 red; 10 green, 1 blue; 1 red, 5 green, 3 blue 
+Game 27 is the splitstring 0 
+ 1 red, 9 green; 3 green; 9 green, 2 blue, 1 red; 10 green, 1 blue; 1 red, 5 green, 3 blue is the subtstring 1 
+27 is the gamenum 
+Starting a new set 
+value is :  1 red, 9 green 
+ 1 red is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 green, 2 blue, 1 red 
+ 9 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 green, 1 blue 
+ 10 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 5 green, 3 blue 
+ 1 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 27 as it is a success case 
+The sum is 217 
+Starting a new game 
+New game is Game 28: 10 red, 8 green; 2 blue, 4 green, 7 red; 2 green, 9 red, 1 blue 
+Game 28 is the splitstring 0 
+ 10 red, 8 green; 2 blue, 4 green, 7 red; 2 green, 9 red, 1 blue is the subtstring 1 
+28 is the gamenum 
+Starting a new set 
+value is :  10 red, 8 green 
+ 10 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 4 green, 7 red 
+ 2 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 9 red, 1 blue 
+ 2 green is the entry 
+Entry is a success 
+ 9 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 28 as it is a success case 
+The sum is 245 
+Starting a new game 
+New game is Game 29: 5 blue, 5 green, 3 red; 1 green, 2 blue, 3 red; 2 green, 3 blue, 5 red; 3 red, 11 blue 
+Game 29 is the splitstring 0 
+ 5 blue, 5 green, 3 red; 1 green, 2 blue, 3 red; 2 green, 3 blue, 5 red; 3 red, 11 blue is the subtstring 1 
+29 is the gamenum 
+Starting a new set 
+value is :  5 blue, 5 green, 3 red 
+ 5 blue is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 2 blue, 3 red 
+ 1 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 3 blue, 5 red 
+ 2 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 red, 11 blue 
+ 3 red is the entry 
+Entry is a success 
+ 11 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 29 as it is a success case 
+The sum is 274 
+Starting a new game 
+New game is Game 30: 11 red, 5 green; 4 blue, 3 green, 5 red; 6 blue, 3 green, 5 red 
+Game 30 is the splitstring 0 
+ 11 red, 5 green; 4 blue, 3 green, 5 red; 6 blue, 3 green, 5 red is the subtstring 1 
+30 is the gamenum 
+Starting a new set 
+value is :  11 red, 5 green 
+ 11 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 3 green, 5 red 
+ 4 blue is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 3 green, 5 red 
+ 6 blue is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Set Complete!I am adding 30 as it is a success case 
+The sum is 304 
+Starting a new game 
+New game is Game 31: 2 blue, 8 green, 14 red; 9 green; 1 red, 1 blue, 4 green; 2 green, 10 red; 1 red, 10 green, 2 blue; 8 green, 14 red 
+Game 31 is the splitstring 0 
+ 2 blue, 8 green, 14 red; 9 green; 1 red, 1 blue, 4 green; 2 green, 10 red; 1 red, 10 green, 2 blue; 8 green, 14 red is the subtstring 1 
+31 is the gamenum 
+Starting a new set 
+value is :  2 blue, 8 green, 14 red 
+ 2 blue is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+ 14 red is the entry 
+Breaking out of Red for game 31 
+After failure, the sum is 304 
+Set Complete!Starting a new game 
+New game is Game 32: 14 green, 6 red, 6 blue; 1 red, 2 blue, 15 green; 2 red, 18 green, 1 blue 
+Game 32 is the splitstring 0 
+ 14 green, 6 red, 6 blue; 1 red, 2 blue, 15 green; 2 red, 18 green, 1 blue is the subtstring 1 
+32 is the gamenum 
+Starting a new set 
+value is :  14 green, 6 red, 6 blue 
+ 14 green is the entry 
+Breaking out of Green for game 32 
+After failure, the sum is 304 
+Set Complete!Starting a new game 
+New game is Game 33: 16 green, 4 red; 18 green, 3 red; 5 red, 10 green; 5 red, 19 green; 11 green, 4 red; 11 red, 1 blue, 2 green 
+Game 33 is the splitstring 0 
+ 16 green, 4 red; 18 green, 3 red; 5 red, 10 green; 5 red, 19 green; 11 green, 4 red; 11 red, 1 blue, 2 green is the subtstring 1 
+33 is the gamenum 
+Starting a new set 
+value is :  16 green, 4 red 
+ 16 green is the entry 
+Breaking out of Green for game 33 
+After failure, the sum is 304 
+Set Complete!Starting a new game 
+New game is Game 34: 1 blue, 11 red; 5 red, 4 green; 4 green, 1 blue, 12 red; 2 blue, 1 green, 7 red; 3 green, 1 blue, 12 red 
+Game 34 is the splitstring 0 
+ 1 blue, 11 red; 5 red, 4 green; 4 green, 1 blue, 12 red; 2 blue, 1 green, 7 red; 3 green, 1 blue, 12 red is the subtstring 1 
+34 is the gamenum 
+Starting a new set 
+value is :  1 blue, 11 red 
+ 1 blue is the entry 
+Entry is a success 
+ 11 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 red, 4 green 
+ 5 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 green, 1 blue, 12 red 
+ 4 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 1 green, 7 red 
+ 2 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 1 blue, 12 red 
+ 3 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+Set Complete!I am adding 34 as it is a success case 
+The sum is 338 
+Starting a new game 
+New game is Game 35: 5 red, 1 blue; 1 blue, 1 red; 2 blue, 2 green, 15 red; 7 red, 2 green; 3 blue, 1 green, 1 red; 16 red, 3 blue, 1 green 
+Game 35 is the splitstring 0 
+ 5 red, 1 blue; 1 blue, 1 red; 2 blue, 2 green, 15 red; 7 red, 2 green; 3 blue, 1 green, 1 red; 16 red, 3 blue, 1 green is the subtstring 1 
+35 is the gamenum 
+Starting a new set 
+value is :  5 red, 1 blue 
+ 5 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 1 red 
+ 1 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 2 green, 15 red 
+ 2 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 15 red is the entry 
+Breaking out of Red for game 35 
+After failure, the sum is 338 
+Set Complete!Starting a new game 
+New game is Game 36: 10 green, 16 red; 2 blue, 14 green, 6 red; 1 blue, 8 green, 12 red 
+Game 36 is the splitstring 0 
+ 10 green, 16 red; 2 blue, 14 green, 6 red; 1 blue, 8 green, 12 red is the subtstring 1 
+36 is the gamenum 
+Starting a new set 
+value is :  10 green, 16 red 
+ 10 green is the entry 
+Entry is a success 
+ 16 red is the entry 
+Breaking out of Red for game 36 
+After failure, the sum is 338 
+Set Complete!Starting a new game 
+New game is Game 37: 17 green, 14 blue; 10 green, 12 blue; 10 blue, 1 red, 8 green 
+Game 37 is the splitstring 0 
+ 17 green, 14 blue; 10 green, 12 blue; 10 blue, 1 red, 8 green is the subtstring 1 
+37 is the gamenum 
+Starting a new set 
+value is :  17 green, 14 blue 
+ 17 green is the entry 
+Breaking out of Green for game 37 
+After failure, the sum is 338 
+Set Complete!Starting a new game 
+New game is Game 38: 9 blue, 2 green; 5 blue, 1 green, 5 red; 6 blue, 2 green, 7 red; 17 red, 1 green, 7 blue; 1 green, 9 blue, 16 red 
+Game 38 is the splitstring 0 
+ 9 blue, 2 green; 5 blue, 1 green, 5 red; 6 blue, 2 green, 7 red; 17 red, 1 green, 7 blue; 1 green, 9 blue, 16 red is the subtstring 1 
+38 is the gamenum 
+Starting a new set 
+value is :  9 blue, 2 green 
+ 9 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 blue, 1 green, 5 red 
+ 5 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 2 green, 7 red 
+ 6 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  17 red, 1 green, 7 blue 
+ 17 red is the entry 
+Breaking out of Red for game 38 
+After failure, the sum is 338 
+Set Complete!Starting a new game 
+New game is Game 39: 2 red, 13 blue, 10 green; 5 blue, 15 green, 1 red; 13 blue, 5 green; 3 red, 6 blue, 2 green; 17 green, 1 blue, 4 red; 4 red, 1 blue, 11 green 
+Game 39 is the splitstring 0 
+ 2 red, 13 blue, 10 green; 5 blue, 15 green, 1 red; 13 blue, 5 green; 3 red, 6 blue, 2 green; 17 green, 1 blue, 4 red; 4 red, 1 blue, 11 green is the subtstring 1 
+39 is the gamenum 
+Starting a new set 
+value is :  2 red, 13 blue, 10 green 
+ 2 red is the entry 
+Entry is a success 
+ 13 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 blue, 15 green, 1 red 
+ 5 blue is the entry 
+Entry is a success 
+ 15 green is the entry 
+Breaking out of Green for game 39 
+After failure, the sum is 338 
+Set Complete!Starting a new game 
+New game is Game 40: 4 green, 12 blue; 5 red, 13 blue, 1 green; 4 green, 7 red; 7 blue, 2 green 
+Game 40 is the splitstring 0 
+ 4 green, 12 blue; 5 red, 13 blue, 1 green; 4 green, 7 red; 7 blue, 2 green is the subtstring 1 
+40 is the gamenum 
+Starting a new set 
+value is :  4 green, 12 blue 
+ 4 green is the entry 
+Entry is a success 
+ 12 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 red, 13 blue, 1 green 
+ 5 red is the entry 
+Entry is a success 
+ 13 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 green, 7 red 
+ 4 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 2 green 
+ 7 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Set Complete!I am adding 40 as it is a success case 
+The sum is 378 
+Starting a new game 
+New game is Game 41: 3 red, 1 green; 10 green, 4 blue, 5 red; 8 blue, 5 red 
+Game 41 is the splitstring 0 
+ 3 red, 1 green; 10 green, 4 blue, 5 red; 8 blue, 5 red is the subtstring 1 
+41 is the gamenum 
+Starting a new set 
+value is :  3 red, 1 green 
+ 3 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 green, 4 blue, 5 red 
+ 10 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 5 red 
+ 8 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Set Complete!I am adding 41 as it is a success case 
+The sum is 419 
+Starting a new game 
+New game is Game 42: 8 blue, 12 red, 5 green; 8 red, 5 green, 4 blue; 3 green, 13 red; 8 blue, 16 red; 12 red, 3 green, 1 blue; 2 blue, 2 green, 6 red 
+Game 42 is the splitstring 0 
+ 8 blue, 12 red, 5 green; 8 red, 5 green, 4 blue; 3 green, 13 red; 8 blue, 16 red; 12 red, 3 green, 1 blue; 2 blue, 2 green, 6 red is the subtstring 1 
+42 is the gamenum 
+Starting a new set 
+value is :  8 blue, 12 red, 5 green 
+ 8 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 red, 5 green, 4 blue 
+ 8 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 13 red 
+ 3 green is the entry 
+Entry is a success 
+ 13 red is the entry 
+Breaking out of Red for game 42 
+After failure, the sum is 419 
+Set Complete!Starting a new game 
+New game is Game 43: 5 blue, 4 red; 10 red, 6 blue; 12 red, 2 blue, 1 green; 7 blue, 12 red, 1 green 
+Game 43 is the splitstring 0 
+ 5 blue, 4 red; 10 red, 6 blue; 12 red, 2 blue, 1 green; 7 blue, 12 red, 1 green is the subtstring 1 
+43 is the gamenum 
+Starting a new set 
+value is :  5 blue, 4 red 
+ 5 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 red, 6 blue 
+ 10 red is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  12 red, 2 blue, 1 green 
+ 12 red is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 12 red, 1 green 
+ 7 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Set Complete!I am adding 43 as it is a success case 
+The sum is 462 
+Starting a new game 
+New game is Game 44: 11 blue, 5 red; 2 red, 13 green, 5 blue; 7 red, 7 blue, 11 green 
+Game 44 is the splitstring 0 
+ 11 blue, 5 red; 2 red, 13 green, 5 blue; 7 red, 7 blue, 11 green is the subtstring 1 
+44 is the gamenum 
+Starting a new set 
+value is :  11 blue, 5 red 
+ 11 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 13 green, 5 blue 
+ 2 red is the entry 
+Entry is a success 
+ 13 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red, 7 blue, 11 green 
+ 7 red is the entry 
+Entry is a success 
+ 7 blue is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Set Complete!I am adding 44 as it is a success case 
+The sum is 506 
+Starting a new game 
+New game is Game 45: 7 red, 6 blue; 5 blue, 6 green; 5 green, 5 blue, 7 red; 4 red, 9 green, 12 blue; 9 blue, 12 green, 1 red 
+Game 45 is the splitstring 0 
+ 7 red, 6 blue; 5 blue, 6 green; 5 green, 5 blue, 7 red; 4 red, 9 green, 12 blue; 9 blue, 12 green, 1 red is the subtstring 1 
+45 is the gamenum 
+Starting a new set 
+value is :  7 red, 6 blue 
+ 7 red is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 blue, 6 green 
+ 5 blue is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 green, 5 blue, 7 red 
+ 5 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 red, 9 green, 12 blue 
+ 4 red is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+ 12 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 blue, 12 green, 1 red 
+ 9 blue is the entry 
+Entry is a success 
+ 12 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Set Complete!I am adding 45 as it is a success case 
+The sum is 551 
+Starting a new game 
+New game is Game 46: 2 green, 7 blue, 20 red; 18 green, 2 blue; 8 blue, 1 red, 3 green; 6 green, 1 blue; 2 red, 6 blue, 4 green 
+Game 46 is the splitstring 0 
+ 2 green, 7 blue, 20 red; 18 green, 2 blue; 8 blue, 1 red, 3 green; 6 green, 1 blue; 2 red, 6 blue, 4 green is the subtstring 1 
+46 is the gamenum 
+Starting a new set 
+value is :  2 green, 7 blue, 20 red 
+ 2 green is the entry 
+Entry is a success 
+ 7 blue is the entry 
+Entry is a success 
+ 20 red is the entry 
+Breaking out of Red for game 46 
+After failure, the sum is 551 
+Set Complete!Starting a new game 
+New game is Game 47: 6 red, 6 blue; 14 blue, 7 green, 2 red; 8 blue, 3 red 
+Game 47 is the splitstring 0 
+ 6 red, 6 blue; 14 blue, 7 green, 2 red; 8 blue, 3 red is the subtstring 1 
+47 is the gamenum 
+Starting a new set 
+value is :  6 red, 6 blue 
+ 6 red is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  14 blue, 7 green, 2 red 
+ 14 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 3 red 
+ 8 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Set Complete!I am adding 47 as it is a success case 
+The sum is 598 
+Starting a new game 
+New game is Game 48: 1 red, 5 blue; 3 blue, 15 green, 2 red; 6 blue, 1 red, 13 green; 6 green, 4 blue, 3 red; 11 green, 3 blue 
+Game 48 is the splitstring 0 
+ 1 red, 5 blue; 3 blue, 15 green, 2 red; 6 blue, 1 red, 13 green; 6 green, 4 blue, 3 red; 11 green, 3 blue is the subtstring 1 
+48 is the gamenum 
+Starting a new set 
+value is :  1 red, 5 blue 
+ 1 red is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 blue, 15 green, 2 red 
+ 3 blue is the entry 
+Entry is a success 
+ 15 green is the entry 
+Breaking out of Green for game 48 
+After failure, the sum is 598 
+Set Complete!Starting a new game 
+New game is Game 49: 1 green, 15 blue, 3 red; 15 green, 6 blue; 12 green, 2 red, 8 blue; 3 green, 16 blue 
+Game 49 is the splitstring 0 
+ 1 green, 15 blue, 3 red; 15 green, 6 blue; 12 green, 2 red, 8 blue; 3 green, 16 blue is the subtstring 1 
+49 is the gamenum 
+Starting a new set 
+value is :  1 green, 15 blue, 3 red 
+ 1 green is the entry 
+Entry is a success 
+ 15 blue is the entry 
+Breaking out of Blue for game 49 
+After failure, the sum is 598 
+Set Complete!Starting a new game 
+New game is Game 50: 8 blue, 7 red, 1 green; 6 blue, 1 green, 2 red; 3 red, 7 blue; 4 blue, 6 red, 1 green 
+Game 50 is the splitstring 0 
+ 8 blue, 7 red, 1 green; 6 blue, 1 green, 2 red; 3 red, 7 blue; 4 blue, 6 red, 1 green is the subtstring 1 
+50 is the gamenum 
+Starting a new set 
+value is :  8 blue, 7 red, 1 green 
+ 8 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 1 green, 2 red 
+ 6 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 red, 7 blue 
+ 3 red is the entry 
+Entry is a success 
+ 7 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 6 red, 1 green 
+ 4 blue is the entry 
+Entry is a success 
+ 6 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Set Complete!I am adding 50 as it is a success case 
+The sum is 648 
+Starting a new game 
+New game is Game 51: 2 red, 5 blue; 2 red, 10 green; 11 green, 1 blue; 9 green, 1 blue, 2 red; 5 blue, 11 green; 1 red, 8 green, 1 blue 
+Game 51 is the splitstring 0 
+ 2 red, 5 blue; 2 red, 10 green; 11 green, 1 blue; 9 green, 1 blue, 2 red; 5 blue, 11 green; 1 red, 8 green, 1 blue is the subtstring 1 
+51 is the gamenum 
+Starting a new set 
+value is :  2 red, 5 blue 
+ 2 red is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 10 green 
+ 2 red is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 green, 1 blue 
+ 11 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 green, 1 blue, 2 red 
+ 9 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 blue, 11 green 
+ 5 blue is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 8 green, 1 blue 
+ 1 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 51 as it is a success case 
+The sum is 699 
+Starting a new game 
+New game is Game 52: 1 green, 1 red, 15 blue; 17 blue, 1 red; 5 red, 1 green; 19 blue, 6 red, 3 green; 5 blue, 1 green 
+Game 52 is the splitstring 0 
+ 1 green, 1 red, 15 blue; 17 blue, 1 red; 5 red, 1 green; 19 blue, 6 red, 3 green; 5 blue, 1 green is the subtstring 1 
+52 is the gamenum 
+Starting a new set 
+value is :  1 green, 1 red, 15 blue 
+ 1 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 15 blue is the entry 
+Breaking out of Blue for game 52 
+After failure, the sum is 699 
+Set Complete!Starting a new game 
+New game is Game 53: 1 blue, 12 red, 6 green; 3 red, 7 green, 3 blue; 2 blue, 7 red, 5 green; 4 red, 3 blue, 19 green; 10 red, 12 green, 2 blue; 5 blue, 7 red, 14 green 
+Game 53 is the splitstring 0 
+ 1 blue, 12 red, 6 green; 3 red, 7 green, 3 blue; 2 blue, 7 red, 5 green; 4 red, 3 blue, 19 green; 10 red, 12 green, 2 blue; 5 blue, 7 red, 14 green is the subtstring 1 
+53 is the gamenum 
+Starting a new set 
+value is :  1 blue, 12 red, 6 green 
+ 1 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 red, 7 green, 3 blue 
+ 3 red is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 7 red, 5 green 
+ 2 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 red, 3 blue, 19 green 
+ 4 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+ 19 green is the entry 
+Breaking out of Green for game 53 
+After failure, the sum is 699 
+Set Complete!Starting a new game 
+New game is Game 54: 12 green, 1 red, 4 blue; 3 blue, 5 red, 8 green; 9 green, 6 blue; 3 green, 2 red, 11 blue; 3 green, 10 blue, 7 red; 2 red, 3 green, 4 blue 
+Game 54 is the splitstring 0 
+ 12 green, 1 red, 4 blue; 3 blue, 5 red, 8 green; 9 green, 6 blue; 3 green, 2 red, 11 blue; 3 green, 10 blue, 7 red; 2 red, 3 green, 4 blue is the subtstring 1 
+54 is the gamenum 
+Starting a new set 
+value is :  12 green, 1 red, 4 blue 
+ 12 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 blue, 5 red, 8 green 
+ 3 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 green, 6 blue 
+ 9 green is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 2 red, 11 blue 
+ 3 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+ 11 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 10 blue, 7 red 
+ 3 green is the entry 
+Entry is a success 
+ 10 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 3 green, 4 blue 
+ 2 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 54 as it is a success case 
+The sum is 753 
+Starting a new game 
+New game is Game 55: 5 red, 3 blue; 4 blue, 6 green; 10 blue, 1 green; 7 green, 4 red, 14 blue; 2 red, 9 blue, 10 green; 5 red, 10 blue, 10 green 
+Game 55 is the splitstring 0 
+ 5 red, 3 blue; 4 blue, 6 green; 10 blue, 1 green; 7 green, 4 red, 14 blue; 2 red, 9 blue, 10 green; 5 red, 10 blue, 10 green is the subtstring 1 
+55 is the gamenum 
+Starting a new set 
+value is :  5 red, 3 blue 
+ 5 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 6 green 
+ 4 blue is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 blue, 1 green 
+ 10 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 green, 4 red, 14 blue 
+ 7 green is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+ 14 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 9 blue, 10 green 
+ 2 red is the entry 
+Entry is a success 
+ 9 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 red, 10 blue, 10 green 
+ 5 red is the entry 
+Entry is a success 
+ 10 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Set Complete!I am adding 55 as it is a success case 
+The sum is 808 
+Starting a new game 
+New game is Game 56: 3 green, 11 blue; 4 blue, 10 green, 8 red; 2 blue, 5 green, 2 red; 1 blue, 1 green, 8 red; 5 green, 7 red, 3 blue 
+Game 56 is the splitstring 0 
+ 3 green, 11 blue; 4 blue, 10 green, 8 red; 2 blue, 5 green, 2 red; 1 blue, 1 green, 8 red; 5 green, 7 red, 3 blue is the subtstring 1 
+56 is the gamenum 
+Starting a new set 
+value is :  3 green, 11 blue 
+ 3 green is the entry 
+Entry is a success 
+ 11 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 10 green, 8 red 
+ 4 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 5 green, 2 red 
+ 2 blue is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 1 green, 8 red 
+ 1 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 green, 7 red, 3 blue 
+ 5 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 56 as it is a success case 
+The sum is 864 
+Starting a new game 
+New game is Game 57: 2 green, 2 blue, 3 red; 8 red, 5 green, 2 blue; 16 red, 12 blue, 7 green; 13 blue, 6 red, 2 green; 12 red, 1 green 
+Game 57 is the splitstring 0 
+ 2 green, 2 blue, 3 red; 8 red, 5 green, 2 blue; 16 red, 12 blue, 7 green; 13 blue, 6 red, 2 green; 12 red, 1 green is the subtstring 1 
+57 is the gamenum 
+Starting a new set 
+value is :  2 green, 2 blue, 3 red 
+ 2 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 red, 5 green, 2 blue 
+ 8 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  16 red, 12 blue, 7 green 
+ 16 red is the entry 
+Breaking out of Red for game 57 
+After failure, the sum is 864 
+Set Complete!Starting a new game 
+New game is Game 58: 2 green, 3 blue, 8 red; 3 green, 4 blue, 7 red; 2 blue, 11 red, 4 green; 4 green, 1 blue, 2 red; 3 green, 3 red, 2 blue 
+Game 58 is the splitstring 0 
+ 2 green, 3 blue, 8 red; 3 green, 4 blue, 7 red; 2 blue, 11 red, 4 green; 4 green, 1 blue, 2 red; 3 green, 3 red, 2 blue is the subtstring 1 
+58 is the gamenum 
+Starting a new set 
+value is :  2 green, 3 blue, 8 red 
+ 2 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 4 blue, 7 red 
+ 3 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 11 red, 4 green 
+ 2 blue is the entry 
+Entry is a success 
+ 11 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 green, 1 blue, 2 red 
+ 4 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 3 red, 2 blue 
+ 3 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 58 as it is a success case 
+The sum is 922 
+Starting a new game 
+New game is Game 59: 10 red, 6 blue, 2 green; 2 green, 6 blue, 14 red; 3 green, 11 red, 7 blue; 1 blue, 1 green 
+Game 59 is the splitstring 0 
+ 10 red, 6 blue, 2 green; 2 green, 6 blue, 14 red; 3 green, 11 red, 7 blue; 1 blue, 1 green is the subtstring 1 
+59 is the gamenum 
+Starting a new set 
+value is :  10 red, 6 blue, 2 green 
+ 10 red is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 6 blue, 14 red 
+ 2 green is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+ 14 red is the entry 
+Breaking out of Red for game 59 
+After failure, the sum is 922 
+Set Complete!Starting a new game 
+New game is Game 60: 5 blue, 10 red; 4 blue, 12 red; 2 green, 3 red, 4 blue 
+Game 60 is the splitstring 0 
+ 5 blue, 10 red; 4 blue, 12 red; 2 green, 3 red, 4 blue is the subtstring 1 
+60 is the gamenum 
+Starting a new set 
+value is :  5 blue, 10 red 
+ 5 blue is the entry 
+Entry is a success 
+ 10 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 12 red 
+ 4 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 3 red, 4 blue 
+ 2 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 60 as it is a success case 
+The sum is 982 
+Starting a new game 
+New game is Game 61: 4 blue, 1 green; 10 blue, 2 red; 6 blue, 1 red; 1 green, 7 red; 5 blue, 5 red 
+Game 61 is the splitstring 0 
+ 4 blue, 1 green; 10 blue, 2 red; 6 blue, 1 red; 1 green, 7 red; 5 blue, 5 red is the subtstring 1 
+61 is the gamenum 
+Starting a new set 
+value is :  4 blue, 1 green 
+ 4 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 blue, 2 red 
+ 10 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 1 red 
+ 6 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 7 red 
+ 1 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 blue, 5 red 
+ 5 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+Set Complete!I am adding 61 as it is a success case 
+The sum is 1043 
+Starting a new game 
+New game is Game 62: 6 blue, 7 red, 1 green; 7 blue, 7 green, 15 red; 14 green, 16 red, 2 blue; 2 blue, 17 red; 4 red, 11 green, 6 blue; 13 green, 16 red, 5 blue 
+Game 62 is the splitstring 0 
+ 6 blue, 7 red, 1 green; 7 blue, 7 green, 15 red; 14 green, 16 red, 2 blue; 2 blue, 17 red; 4 red, 11 green, 6 blue; 13 green, 16 red, 5 blue is the subtstring 1 
+62 is the gamenum 
+Starting a new set 
+value is :  6 blue, 7 red, 1 green 
+ 6 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 7 green, 15 red 
+ 7 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+ 15 red is the entry 
+Breaking out of Red for game 62 
+After failure, the sum is 1043 
+Set Complete!Starting a new game 
+New game is Game 63: 4 red, 13 green, 1 blue; 2 green, 5 blue, 10 red; 3 green, 8 red; 1 blue, 3 red, 11 green; 1 red, 7 blue 
+Game 63 is the splitstring 0 
+ 4 red, 13 green, 1 blue; 2 green, 5 blue, 10 red; 3 green, 8 red; 1 blue, 3 red, 11 green; 1 red, 7 blue is the subtstring 1 
+63 is the gamenum 
+Starting a new set 
+value is :  4 red, 13 green, 1 blue 
+ 4 red is the entry 
+Entry is a success 
+ 13 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 5 blue, 10 red 
+ 2 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+ 10 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 8 red 
+ 3 green is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 3 red, 11 green 
+ 1 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 7 blue 
+ 1 red is the entry 
+Entry is a success 
+ 7 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 63 as it is a success case 
+The sum is 1106 
+Starting a new game 
+New game is Game 64: 12 green, 1 blue; 8 red, 1 blue, 10 green; 11 green, 1 blue, 3 red; 10 green, 2 red, 1 blue; 1 blue, 9 green, 8 red 
+Game 64 is the splitstring 0 
+ 12 green, 1 blue; 8 red, 1 blue, 10 green; 11 green, 1 blue, 3 red; 10 green, 2 red, 1 blue; 1 blue, 9 green, 8 red is the subtstring 1 
+64 is the gamenum 
+Starting a new set 
+value is :  12 green, 1 blue 
+ 12 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 red, 1 blue, 10 green 
+ 8 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 green, 1 blue, 3 red 
+ 11 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 green, 2 red, 1 blue 
+ 10 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 9 green, 8 red 
+ 1 blue is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Set Complete!I am adding 64 as it is a success case 
+The sum is 1170 
+Starting a new game 
+New game is Game 65: 5 green, 2 red; 7 blue, 5 red, 10 green; 9 green, 8 blue; 3 blue, 4 red, 8 green; 11 green, 6 red, 16 blue 
+Game 65 is the splitstring 0 
+ 5 green, 2 red; 7 blue, 5 red, 10 green; 9 green, 8 blue; 3 blue, 4 red, 8 green; 11 green, 6 red, 16 blue is the subtstring 1 
+65 is the gamenum 
+Starting a new set 
+value is :  5 green, 2 red 
+ 5 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 5 red, 10 green 
+ 7 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 green, 8 blue 
+ 9 green is the entry 
+Entry is a success 
+ 8 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 blue, 4 red, 8 green 
+ 3 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 green, 6 red, 16 blue 
+ 11 green is the entry 
+Entry is a success 
+ 6 red is the entry 
+Entry is a success 
+ 16 blue is the entry 
+Breaking out of Blue for game 65 
+After failure, the sum is 1170 
+Set Complete!Starting a new game 
+New game is Game 66: 8 green, 1 red, 4 blue; 10 green, 5 blue, 7 red; 5 blue, 3 red, 6 green; 4 blue, 12 green, 6 red; 16 green, 3 red; 16 green, 7 red, 4 blue 
+Game 66 is the splitstring 0 
+ 8 green, 1 red, 4 blue; 10 green, 5 blue, 7 red; 5 blue, 3 red, 6 green; 4 blue, 12 green, 6 red; 16 green, 3 red; 16 green, 7 red, 4 blue is the subtstring 1 
+66 is the gamenum 
+Starting a new set 
+value is :  8 green, 1 red, 4 blue 
+ 8 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 green, 5 blue, 7 red 
+ 10 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 blue, 3 red, 6 green 
+ 5 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 12 green, 6 red 
+ 4 blue is the entry 
+Entry is a success 
+ 12 green is the entry 
+Entry is a success 
+ 6 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  16 green, 3 red 
+ 16 green is the entry 
+Breaking out of Green for game 66 
+After failure, the sum is 1170 
+Set Complete!Starting a new game 
+New game is Game 67: 6 green; 7 red, 1 green, 5 blue; 10 red, 13 green, 3 blue; 8 green, 11 red, 6 blue; 14 red, 5 green, 7 blue 
+Game 67 is the splitstring 0 
+ 6 green; 7 red, 1 green, 5 blue; 10 red, 13 green, 3 blue; 8 green, 11 red, 6 blue; 14 red, 5 green, 7 blue is the subtstring 1 
+67 is the gamenum 
+Starting a new set 
+value is :  6 green 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red, 1 green, 5 blue 
+ 7 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 red, 13 green, 3 blue 
+ 10 red is the entry 
+Entry is a success 
+ 13 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 green, 11 red, 6 blue 
+ 8 green is the entry 
+Entry is a success 
+ 11 red is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  14 red, 5 green, 7 blue 
+ 14 red is the entry 
+Breaking out of Red for game 67 
+After failure, the sum is 1170 
+Set Complete!Starting a new game 
+New game is Game 68: 1 red, 8 green, 3 blue; 1 green, 1 red, 1 blue; 1 green, 11 blue, 1 red 
+Game 68 is the splitstring 0 
+ 1 red, 8 green, 3 blue; 1 green, 1 red, 1 blue; 1 green, 11 blue, 1 red is the subtstring 1 
+68 is the gamenum 
+Starting a new set 
+value is :  1 red, 8 green, 3 blue 
+ 1 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 1 red, 1 blue 
+ 1 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 11 blue, 1 red 
+ 1 green is the entry 
+Entry is a success 
+ 11 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Set Complete!I am adding 68 as it is a success case 
+The sum is 1238 
+Starting a new game 
+New game is Game 69: 2 red, 4 green, 1 blue; 4 blue, 10 green; 4 green, 1 blue, 2 red; 12 green, 5 blue; 6 blue, 3 green 
+Game 69 is the splitstring 0 
+ 2 red, 4 green, 1 blue; 4 blue, 10 green; 4 green, 1 blue, 2 red; 12 green, 5 blue; 6 blue, 3 green is the subtstring 1 
+69 is the gamenum 
+Starting a new set 
+value is :  2 red, 4 green, 1 blue 
+ 2 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 10 green 
+ 4 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 green, 1 blue, 2 red 
+ 4 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  12 green, 5 blue 
+ 12 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 3 green 
+ 6 blue is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Set Complete!I am adding 69 as it is a success case 
+The sum is 1307 
+Starting a new game 
+New game is Game 70: 1 blue, 3 green, 2 red; 1 green, 2 blue; 5 green, 1 red; 2 blue, 4 green; 1 red, 5 green 
+Game 70 is the splitstring 0 
+ 1 blue, 3 green, 2 red; 1 green, 2 blue; 5 green, 1 red; 2 blue, 4 green; 1 red, 5 green is the subtstring 1 
+70 is the gamenum 
+Starting a new set 
+value is :  1 blue, 3 green, 2 red 
+ 1 blue is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 2 blue 
+ 1 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 green, 1 red 
+ 5 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 4 green 
+ 2 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 5 green 
+ 1 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Set Complete!I am adding 70 as it is a success case 
+The sum is 1377 
+Starting a new game 
+New game is Game 71: 6 blue, 3 red, 12 green; 2 red, 8 green, 3 blue; 8 green, 8 blue; 7 blue, 1 red, 9 green; 2 green, 4 blue, 1 red; 3 red, 7 blue, 8 green 
+Game 71 is the splitstring 0 
+ 6 blue, 3 red, 12 green; 2 red, 8 green, 3 blue; 8 green, 8 blue; 7 blue, 1 red, 9 green; 2 green, 4 blue, 1 red; 3 red, 7 blue, 8 green is the subtstring 1 
+71 is the gamenum 
+Starting a new set 
+value is :  6 blue, 3 red, 12 green 
+ 6 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+ 12 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 8 green, 3 blue 
+ 2 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 green, 8 blue 
+ 8 green is the entry 
+Entry is a success 
+ 8 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 blue, 1 red, 9 green 
+ 7 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 4 blue, 1 red 
+ 2 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 red, 7 blue, 8 green 
+ 3 red is the entry 
+Entry is a success 
+ 7 blue is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Set Complete!I am adding 71 as it is a success case 
+The sum is 1448 
+Starting a new game 
+New game is Game 72: 8 red, 7 blue, 6 green; 2 red, 8 blue, 7 green; 2 red, 5 blue, 1 green; 4 green, 6 blue, 1 red; 11 green, 13 red, 3 blue; 8 green, 11 red, 2 blue 
+Game 72 is the splitstring 0 
+ 8 red, 7 blue, 6 green; 2 red, 8 blue, 7 green; 2 red, 5 blue, 1 green; 4 green, 6 blue, 1 red; 11 green, 13 red, 3 blue; 8 green, 11 red, 2 blue is the subtstring 1 
+72 is the gamenum 
+Starting a new set 
+value is :  8 red, 7 blue, 6 green 
+ 8 red is the entry 
+Entry is a success 
+ 7 blue is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 8 blue, 7 green 
+ 2 red is the entry 
+Entry is a success 
+ 8 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 5 blue, 1 green 
+ 2 red is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 green, 6 blue, 1 red 
+ 4 green is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 green, 13 red, 3 blue 
+ 11 green is the entry 
+Entry is a success 
+ 13 red is the entry 
+Breaking out of Red for game 72 
+After failure, the sum is 1448 
+Set Complete!Starting a new game 
+New game is Game 73: 7 blue, 17 red, 4 green; 1 red, 4 green, 2 blue; 3 red, 4 blue, 4 green; 5 blue, 5 red; 6 red, 2 blue; 11 red, 1 green, 4 blue 
+Game 73 is the splitstring 0 
+ 7 blue, 17 red, 4 green; 1 red, 4 green, 2 blue; 3 red, 4 blue, 4 green; 5 blue, 5 red; 6 red, 2 blue; 11 red, 1 green, 4 blue is the subtstring 1 
+73 is the gamenum 
+Starting a new set 
+value is :  7 blue, 17 red, 4 green 
+ 7 blue is the entry 
+Entry is a success 
+ 17 red is the entry 
+Breaking out of Red for game 73 
+After failure, the sum is 1448 
+Set Complete!Starting a new game 
+New game is Game 74: 3 red, 2 green; 4 red, 12 blue, 4 green; 7 red, 6 blue, 10 green 
+Game 74 is the splitstring 0 
+ 3 red, 2 green; 4 red, 12 blue, 4 green; 7 red, 6 blue, 10 green is the subtstring 1 
+74 is the gamenum 
+Starting a new set 
+value is :  3 red, 2 green 
+ 3 red is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 red, 12 blue, 4 green 
+ 4 red is the entry 
+Entry is a success 
+ 12 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red, 6 blue, 10 green 
+ 7 red is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+Set Complete!I am adding 74 as it is a success case 
+The sum is 1522 
+Starting a new game 
+New game is Game 75: 6 blue, 7 green; 8 green, 9 blue, 1 red; 6 red, 4 blue, 9 green; 10 red, 9 blue, 4 green; 6 red, 2 blue, 1 green; 7 green 
+Game 75 is the splitstring 0 
+ 6 blue, 7 green; 8 green, 9 blue, 1 red; 6 red, 4 blue, 9 green; 10 red, 9 blue, 4 green; 6 red, 2 blue, 1 green; 7 green is the subtstring 1 
+75 is the gamenum 
+Starting a new set 
+value is :  6 blue, 7 green 
+ 6 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 green, 9 blue, 1 red 
+ 8 green is the entry 
+Entry is a success 
+ 9 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 red, 4 blue, 9 green 
+ 6 red is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 red, 9 blue, 4 green 
+ 10 red is the entry 
+Entry is a success 
+ 9 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 red, 2 blue, 1 green 
+ 6 red is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 green 
+ 7 green is the entry 
+Entry is a success 
+Set Complete!I am adding 75 as it is a success case 
+The sum is 1597 
+Starting a new game 
+New game is Game 76: 10 red, 8 green; 2 red, 2 blue, 5 green; 1 red, 1 blue, 1 green; 9 red, 11 green, 2 blue; 2 blue, 9 green, 3 red; 6 green, 14 red 
+Game 76 is the splitstring 0 
+ 10 red, 8 green; 2 red, 2 blue, 5 green; 1 red, 1 blue, 1 green; 9 red, 11 green, 2 blue; 2 blue, 9 green, 3 red; 6 green, 14 red is the subtstring 1 
+76 is the gamenum 
+Starting a new set 
+value is :  10 red, 8 green 
+ 10 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 2 blue, 5 green 
+ 2 red is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 1 blue, 1 green 
+ 1 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 red, 11 green, 2 blue 
+ 9 red is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 9 green, 3 red 
+ 2 blue is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 green, 14 red 
+ 6 green is the entry 
+Entry is a success 
+ 14 red is the entry 
+Breaking out of Red for game 76 
+After failure, the sum is 1597 
+Set Complete!Starting a new game 
+New game is Game 77: 9 blue, 1 red, 3 green; 8 blue, 17 green, 4 red; 5 green, 1 blue, 2 red; 6 green, 1 red, 9 blue; 4 green, 10 red; 9 red, 3 blue 
+Game 77 is the splitstring 0 
+ 9 blue, 1 red, 3 green; 8 blue, 17 green, 4 red; 5 green, 1 blue, 2 red; 6 green, 1 red, 9 blue; 4 green, 10 red; 9 red, 3 blue is the subtstring 1 
+77 is the gamenum 
+Starting a new set 
+value is :  9 blue, 1 red, 3 green 
+ 9 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 17 green, 4 red 
+ 8 blue is the entry 
+Entry is a success 
+ 17 green is the entry 
+Breaking out of Green for game 77 
+After failure, the sum is 1597 
+Set Complete!Starting a new game 
+New game is Game 78: 5 green, 10 blue; 2 green, 5 blue, 11 red; 1 red, 1 green, 6 blue; 1 red, 8 blue, 4 green 
+Game 78 is the splitstring 0 
+ 5 green, 10 blue; 2 green, 5 blue, 11 red; 1 red, 1 green, 6 blue; 1 red, 8 blue, 4 green is the subtstring 1 
+78 is the gamenum 
+Starting a new set 
+value is :  5 green, 10 blue 
+ 5 green is the entry 
+Entry is a success 
+ 10 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 5 blue, 11 red 
+ 2 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+ 11 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 1 green, 6 blue 
+ 1 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+ 6 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 8 blue, 4 green 
+ 1 red is the entry 
+Entry is a success 
+ 8 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Set Complete!I am adding 78 as it is a success case 
+The sum is 1675 
+Starting a new game 
+New game is Game 79: 3 green, 1 blue, 2 red; 8 green, 1 blue, 2 red; 2 blue, 1 red, 11 green 
+Game 79 is the splitstring 0 
+ 3 green, 1 blue, 2 red; 8 green, 1 blue, 2 red; 2 blue, 1 red, 11 green is the subtstring 1 
+79 is the gamenum 
+Starting a new set 
+value is :  3 green, 1 blue, 2 red 
+ 3 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 green, 1 blue, 2 red 
+ 8 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 1 red, 11 green 
+ 2 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Set Complete!I am adding 79 as it is a success case 
+The sum is 1754 
+Starting a new game 
+New game is Game 80: 12 blue, 3 green; 6 red, 4 green, 13 blue; 4 blue, 8 red; 3 green, 4 blue 
+Game 80 is the splitstring 0 
+ 12 blue, 3 green; 6 red, 4 green, 13 blue; 4 blue, 8 red; 3 green, 4 blue is the subtstring 1 
+80 is the gamenum 
+Starting a new set 
+value is :  12 blue, 3 green 
+ 12 blue is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 red, 4 green, 13 blue 
+ 6 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+ 13 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 blue, 8 red 
+ 4 blue is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 green, 4 blue 
+ 3 green is the entry 
+Entry is a success 
+ 4 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 80 as it is a success case 
+The sum is 1834 
+Starting a new game 
+New game is Game 81: 1 green, 5 blue; 1 green, 3 blue, 1 red; 1 blue, 1 red, 3 green; 6 blue, 5 green 
+Game 81 is the splitstring 0 
+ 1 green, 5 blue; 1 green, 3 blue, 1 red; 1 blue, 1 red, 3 green; 6 blue, 5 green is the subtstring 1 
+81 is the gamenum 
+Starting a new set 
+value is :  1 green, 5 blue 
+ 1 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 3 blue, 1 red 
+ 1 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 blue, 1 red, 3 green 
+ 1 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 5 green 
+ 6 blue is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Set Complete!I am adding 81 as it is a success case 
+The sum is 1915 
+Starting a new game 
+New game is Game 82: 2 green, 1 blue; 10 blue, 1 red, 6 green; 4 green, 20 blue, 1 red; 20 blue, 2 green, 1 red 
+Game 82 is the splitstring 0 
+ 2 green, 1 blue; 10 blue, 1 red, 6 green; 4 green, 20 blue, 1 red; 20 blue, 2 green, 1 red is the subtstring 1 
+82 is the gamenum 
+Starting a new set 
+value is :  2 green, 1 blue 
+ 2 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 blue, 1 red, 6 green 
+ 10 blue is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 green, 20 blue, 1 red 
+ 4 green is the entry 
+Entry is a success 
+ 20 blue is the entry 
+Breaking out of Blue for game 82 
+After failure, the sum is 1915 
+Set Complete!Starting a new game 
+New game is Game 83: 2 green, 9 blue, 10 red; 12 red, 11 blue, 4 green; 11 blue, 8 red, 3 green; 17 green, 4 blue; 12 green, 4 red, 6 blue; 1 red, 11 green, 8 blue 
+Game 83 is the splitstring 0 
+ 2 green, 9 blue, 10 red; 12 red, 11 blue, 4 green; 11 blue, 8 red, 3 green; 17 green, 4 blue; 12 green, 4 red, 6 blue; 1 red, 11 green, 8 blue is the subtstring 1 
+83 is the gamenum 
+Starting a new set 
+value is :  2 green, 9 blue, 10 red 
+ 2 green is the entry 
+Entry is a success 
+ 9 blue is the entry 
+Entry is a success 
+ 10 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  12 red, 11 blue, 4 green 
+ 12 red is the entry 
+Entry is a success 
+ 11 blue is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 blue, 8 red, 3 green 
+ 11 blue is the entry 
+Entry is a success 
+ 8 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  17 green, 4 blue 
+ 17 green is the entry 
+Breaking out of Green for game 83 
+After failure, the sum is 1915 
+Set Complete!Starting a new game 
+New game is Game 84: 7 green, 15 red, 15 blue; 4 blue, 3 green, 18 red; 2 blue, 1 red, 2 green; 8 blue, 19 red, 5 green; 11 blue, 3 red; 9 red, 2 blue 
+Game 84 is the splitstring 0 
+ 7 green, 15 red, 15 blue; 4 blue, 3 green, 18 red; 2 blue, 1 red, 2 green; 8 blue, 19 red, 5 green; 11 blue, 3 red; 9 red, 2 blue is the subtstring 1 
+84 is the gamenum 
+Starting a new set 
+value is :  7 green, 15 red, 15 blue 
+ 7 green is the entry 
+Entry is a success 
+ 15 red is the entry 
+Breaking out of Red for game 84 
+After failure, the sum is 1915 
+Set Complete!Starting a new game 
+New game is Game 85: 14 green, 3 red, 16 blue; 3 blue, 6 green; 12 green, 6 blue, 2 red 
+Game 85 is the splitstring 0 
+ 14 green, 3 red, 16 blue; 3 blue, 6 green; 12 green, 6 blue, 2 red is the subtstring 1 
+85 is the gamenum 
+Starting a new set 
+value is :  14 green, 3 red, 16 blue 
+ 14 green is the entry 
+Breaking out of Green for game 85 
+After failure, the sum is 1915 
+Set Complete!Starting a new game 
+New game is Game 86: 5 red, 6 green; 9 red, 4 green; 7 green, 1 blue, 2 red 
+Game 86 is the splitstring 0 
+ 5 red, 6 green; 9 red, 4 green; 7 green, 1 blue, 2 red is the subtstring 1 
+86 is the gamenum 
+Starting a new set 
+value is :  5 red, 6 green 
+ 5 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 red, 4 green 
+ 9 red is the entry 
+Entry is a success 
+ 4 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 green, 1 blue, 2 red 
+ 7 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Set Complete!I am adding 86 as it is a success case 
+The sum is 2001 
+Starting a new game 
+New game is Game 87: 10 blue, 7 red, 1 green; 12 blue, 14 red; 7 blue, 7 red 
+Game 87 is the splitstring 0 
+ 10 blue, 7 red, 1 green; 12 blue, 14 red; 7 blue, 7 red is the subtstring 1 
+87 is the gamenum 
+Starting a new set 
+value is :  10 blue, 7 red, 1 green 
+ 10 blue is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+ 1 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  12 blue, 14 red 
+ 12 blue is the entry 
+Entry is a success 
+ 14 red is the entry 
+Breaking out of Red for game 87 
+After failure, the sum is 2001 
+Set Complete!Starting a new game 
+New game is Game 88: 5 red, 10 green, 5 blue; 10 green, 2 red, 8 blue; 2 red, 14 green, 4 blue 
+Game 88 is the splitstring 0 
+ 5 red, 10 green, 5 blue; 10 green, 2 red, 8 blue; 2 red, 14 green, 4 blue is the subtstring 1 
+88 is the gamenum 
+Starting a new set 
+value is :  5 red, 10 green, 5 blue 
+ 5 red is the entry 
+Entry is a success 
+ 10 green is the entry 
+Entry is a success 
+ 5 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 green, 2 red, 8 blue 
+ 10 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+ 8 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 14 green, 4 blue 
+ 2 red is the entry 
+Entry is a success 
+ 14 green is the entry 
+Breaking out of Green for game 88 
+After failure, the sum is 2001 
+Set Complete!Starting a new game 
+New game is Game 89: 1 blue, 6 red, 12 green; 9 red, 13 green, 3 blue; 11 green, 6 red, 3 blue 
+Game 89 is the splitstring 0 
+ 1 blue, 6 red, 12 green; 9 red, 13 green, 3 blue; 11 green, 6 red, 3 blue is the subtstring 1 
+89 is the gamenum 
+Starting a new set 
+value is :  1 blue, 6 red, 12 green 
+ 1 blue is the entry 
+Entry is a success 
+ 6 red is the entry 
+Entry is a success 
+ 12 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 red, 13 green, 3 blue 
+ 9 red is the entry 
+Entry is a success 
+ 13 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  11 green, 6 red, 3 blue 
+ 11 green is the entry 
+Entry is a success 
+ 6 red is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 89 as it is a success case 
+The sum is 2090 
+Starting a new game 
+New game is Game 90: 1 green, 8 blue, 10 red; 10 blue, 7 green; 6 blue, 15 red, 1 green; 1 blue, 16 red, 4 green 
+Game 90 is the splitstring 0 
+ 1 green, 8 blue, 10 red; 10 blue, 7 green; 6 blue, 15 red, 1 green; 1 blue, 16 red, 4 green is the subtstring 1 
+90 is the gamenum 
+Starting a new set 
+value is :  1 green, 8 blue, 10 red 
+ 1 green is the entry 
+Entry is a success 
+ 8 blue is the entry 
+Entry is a success 
+ 10 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  10 blue, 7 green 
+ 10 blue is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 blue, 15 red, 1 green 
+ 6 blue is the entry 
+Entry is a success 
+ 15 red is the entry 
+Breaking out of Red for game 90 
+After failure, the sum is 2090 
+Set Complete!Starting a new game 
+New game is Game 91: 8 red, 9 green, 2 blue; 2 red, 15 blue, 2 green; 15 blue, 1 red, 5 green; 1 green, 6 red, 10 blue 
+Game 91 is the splitstring 0 
+ 8 red, 9 green, 2 blue; 2 red, 15 blue, 2 green; 15 blue, 1 red, 5 green; 1 green, 6 red, 10 blue is the subtstring 1 
+91 is the gamenum 
+Starting a new set 
+value is :  8 red, 9 green, 2 blue 
+ 8 red is the entry 
+Entry is a success 
+ 9 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 red, 15 blue, 2 green 
+ 2 red is the entry 
+Entry is a success 
+ 15 blue is the entry 
+Breaking out of Blue for game 91 
+After failure, the sum is 2090 
+Set Complete!Starting a new game 
+New game is Game 92: 10 blue, 4 red; 9 blue, 3 red, 7 green; 8 blue, 16 green, 3 red; 16 green, 16 blue 
+Game 92 is the splitstring 0 
+ 10 blue, 4 red; 9 blue, 3 red, 7 green; 8 blue, 16 green, 3 red; 16 green, 16 blue is the subtstring 1 
+92 is the gamenum 
+Starting a new set 
+value is :  10 blue, 4 red 
+ 10 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  9 blue, 3 red, 7 green 
+ 9 blue is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 16 green, 3 red 
+ 8 blue is the entry 
+Entry is a success 
+ 16 green is the entry 
+Breaking out of Green for game 92 
+After failure, the sum is 2090 
+Set Complete!Starting a new game 
+New game is Game 93: 1 blue, 2 green, 1 red; 4 red, 7 green, 12 blue; 6 green, 3 blue, 4 red; 8 blue, 4 red, 12 green; 5 red, 8 green; 1 red, 18 blue, 10 green 
+Game 93 is the splitstring 0 
+ 1 blue, 2 green, 1 red; 4 red, 7 green, 12 blue; 6 green, 3 blue, 4 red; 8 blue, 4 red, 12 green; 5 red, 8 green; 1 red, 18 blue, 10 green is the subtstring 1 
+93 is the gamenum 
+Starting a new set 
+value is :  1 blue, 2 green, 1 red 
+ 1 blue is the entry 
+Entry is a success 
+ 2 green is the entry 
+Entry is a success 
+ 1 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  4 red, 7 green, 12 blue 
+ 4 red is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+ 12 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 green, 3 blue, 4 red 
+ 6 green is the entry 
+Entry is a success 
+ 3 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 blue, 4 red, 12 green 
+ 8 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+ 12 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  5 red, 8 green 
+ 5 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 18 blue, 10 green 
+ 1 red is the entry 
+Entry is a success 
+ 18 blue is the entry 
+Breaking out of Blue for game 93 
+After failure, the sum is 2090 
+Set Complete!Starting a new game 
+New game is Game 94: 1 blue, 5 red, 6 green; 7 red, 6 green, 1 blue; 8 red, 11 green; 12 green, 7 red, 1 blue; 7 red, 8 green 
+Game 94 is the splitstring 0 
+ 1 blue, 5 red, 6 green; 7 red, 6 green, 1 blue; 8 red, 11 green; 12 green, 7 red, 1 blue; 7 red, 8 green is the subtstring 1 
+94 is the gamenum 
+Starting a new set 
+value is :  1 blue, 5 red, 6 green 
+ 1 blue is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red, 6 green, 1 blue 
+ 7 red is the entry 
+Entry is a success 
+ 6 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  8 red, 11 green 
+ 8 red is the entry 
+Entry is a success 
+ 11 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  12 green, 7 red, 1 blue 
+ 12 green is the entry 
+Entry is a success 
+ 7 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 red, 8 green 
+ 7 red is the entry 
+Entry is a success 
+ 8 green is the entry 
+Entry is a success 
+Set Complete!I am adding 94 as it is a success case 
+The sum is 2184 
+Starting a new game 
+New game is Game 95: 10 red, 7 green; 2 green, 1 blue, 10 red; 6 green, 5 red, 1 blue 
+Game 95 is the splitstring 0 
+ 10 red, 7 green; 2 green, 1 blue, 10 red; 6 green, 5 red, 1 blue is the subtstring 1 
+95 is the gamenum 
+Starting a new set 
+value is :  10 red, 7 green 
+ 10 red is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 green, 1 blue, 10 red 
+ 2 green is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+ 10 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  6 green, 5 red, 1 blue 
+ 6 green is the entry 
+Entry is a success 
+ 5 red is the entry 
+Entry is a success 
+ 1 blue is the entry 
+Entry is a success 
+Set Complete!I am adding 95 as it is a success case 
+The sum is 2279 
+Starting a new game 
+New game is Game 96: 3 blue, 12 red, 3 green; 13 red, 9 blue; 2 green, 5 red, 13 blue; 2 red, 18 blue, 4 green; 6 red, 6 blue, 7 green; 3 green, 15 red, 18 blue 
+Game 96 is the splitstring 0 
+ 3 blue, 12 red, 3 green; 13 red, 9 blue; 2 green, 5 red, 13 blue; 2 red, 18 blue, 4 green; 6 red, 6 blue, 7 green; 3 green, 15 red, 18 blue is the subtstring 1 
+96 is the gamenum 
+Starting a new set 
+value is :  3 blue, 12 red, 3 green 
+ 3 blue is the entry 
+Entry is a success 
+ 12 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  13 red, 9 blue 
+ 13 red is the entry 
+Breaking out of Red for game 96 
+After failure, the sum is 2279 
+Set Complete!Starting a new game 
+New game is Game 97: 4 red, 3 green; 2 blue, 4 red, 5 green; 3 red, 3 green 
+Game 97 is the splitstring 0 
+ 4 red, 3 green; 2 blue, 4 red, 5 green; 3 red, 3 green is the subtstring 1 
+97 is the gamenum 
+Starting a new set 
+value is :  4 red, 3 green 
+ 4 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  2 blue, 4 red, 5 green 
+ 2 blue is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+ 5 green is the entry 
+Entry is a success 
+Starting a new set 
+value is :  3 red, 3 green 
+ 3 red is the entry 
+Entry is a success 
+ 3 green is the entry 
+Entry is a success 
+Set Complete!I am adding 97 as it is a success case 
+The sum is 2376 
+Starting a new game 
+New game is Game 98: 2 red, 19 blue; 2 blue; 11 blue, 2 red; 3 green, 5 blue, 1 red; 2 red, 1 blue; 17 blue 
+Game 98 is the splitstring 0 
+ 2 red, 19 blue; 2 blue; 11 blue, 2 red; 3 green, 5 blue, 1 red; 2 red, 1 blue; 17 blue is the subtstring 1 
+98 is the gamenum 
+Starting a new set 
+value is :  2 red, 19 blue 
+ 2 red is the entry 
+Entry is a success 
+ 19 blue is the entry 
+Breaking out of Blue for game 98 
+After failure, the sum is 2376 
+Set Complete!Starting a new game 
+New game is Game 99: 2 red, 16 blue, 1 green; 2 green, 12 blue, 6 red; 1 red, 3 green, 3 blue; 8 red, 1 green; 2 red, 9 blue; 1 green, 7 red, 9 blue 
+Game 99 is the splitstring 0 
+ 2 red, 16 blue, 1 green; 2 green, 12 blue, 6 red; 1 red, 3 green, 3 blue; 8 red, 1 green; 2 red, 9 blue; 1 green, 7 red, 9 blue is the subtstring 1 
+99 is the gamenum 
+Starting a new set 
+value is :  2 red, 16 blue, 1 green 
+ 2 red is the entry 
+Entry is a success 
+ 16 blue is the entry 
+Breaking out of Blue for game 99 
+After failure, the sum is 2376 
+Set Complete!Starting a new game 
+New game is Game 100: 8 green, 3 red; 7 green, 4 red; 1 red, 7 green, 2 blue; 1 green, 2 red 
+Game 100 is the splitstring 0 
+ 8 green, 3 red; 7 green, 4 red; 1 red, 7 green, 2 blue; 1 green, 2 red is the subtstring 1 
+100 is the gamenum 
+Starting a new set 
+value is :  8 green, 3 red 
+ 8 green is the entry 
+Entry is a success 
+ 3 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  7 green, 4 red 
+ 7 green is the entry 
+Entry is a success 
+ 4 red is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 red, 7 green, 2 blue 
+ 1 red is the entry 
+Entry is a success 
+ 7 green is the entry 
+Entry is a success 
+ 2 blue is the entry 
+Entry is a success 
+Starting a new set 
+value is :  1 green, 2 red 
+ 1 green is the entry 
+Entry is a success 
+ 2 red is the entry 
+Entry is a success 
+Set Complete!I am adding 100 as it is a success case 
+The sum is 2476 
+final sum: 2476 

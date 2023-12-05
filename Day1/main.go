@@ -60,10 +60,7 @@ func main() {
 		}
 		fmt.Printf("Adding Number: %s\n", numberString)
 		number, err := strconv.Atoi(numberString)
-		if err != nil {
-			fmt.Println("Error converting string to integer:", err)
-			continue // Skip to the next iteration in case of an error
-		}
+
 		sum += number
 
 	}
